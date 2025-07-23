@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/blueSquare.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/HMD_FaceRecognition_Prefabs.unity
+    guid: 26edb417fc2c0fb49a689888b1c02c52
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 5f0360e1315d9d14187705ac9f57382a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 909cc1b3bf802a040bb0c0f27b33719e,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: faf1351edb355de4b89a4b09b21b3605,
+      type: 2}

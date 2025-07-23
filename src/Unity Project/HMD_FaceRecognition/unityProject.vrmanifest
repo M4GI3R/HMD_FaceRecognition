@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.hmd_fr_bluesquare.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "Q:\\_0_Projects\\_00_HMD_FR\\face_recog\\src\\Unity Project\\HMD_FaceRecognition\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "HMD_FaceRecognition [Testing]"
+        }
+      }
+    }
+  ]
+}

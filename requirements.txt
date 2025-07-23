@@ -1,0 +1,19 @@
+# face recog [pocketNet]
+torch==2.2.2+cu121
+torchvision==0.17.2+cu121
+facenet_pytorch==2.6.0
+numpy==1.26.4
+Pillow==10.2.0
+easydict==1.13
+requests==2.32.4
+sympy==1.14.0
+
+# window_capturing
+pygetwindow==0.0.9
+
+# overlay
+mss==10.0.0
+PyQt5==5.15.11
+
+#facedetect [haar cascade]
+opencv-python==4.8.1.78
