@@ -62,7 +62,6 @@ class FaceEngine:
     def embed_tensor(self, face_tensor: torch.Tensor) -> Optional[np.ndarray]:
         """
         Generates an embedding from a face tensor (output of MTCNN).
-        This is used for real-time recognition from a video stream.
         """
         if face_tensor is None:
             return None

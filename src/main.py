@@ -19,8 +19,7 @@ if __name__ == "__main__":
     DEBUG_log("Starting application...")
 
     # --- 1. Find the target window to overlay ---
-    # You can change this to any part of a window title
-    target_window_title = "vr view" # IMPORTANT always use lowcase
+    target_window_title = "vr view" # IMPORTANT always use lowercase
 
     wins = gw.getAllWindows()
     matches = [w for w in wins if target_window_title in w.title.lower() and w.visible and not w.isMinimized]
