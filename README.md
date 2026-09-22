@@ -2,6 +2,33 @@
 
 This repository contains a prototype that shows how face detection and recognition can be visualized directly inside a VR headset.  A small Python application performs the heavy lifting of detecting faces on a SteamVR-View window mirroring the HMD view and matching them against a database.  A Unity project receives the recognition results via UDP and renders a frame and the detected name around each head in 3D space.
 
+## Project Walkthrough
+
+For a complete explanation of the project, including the motivation, architecture, face recognition pipeline, Unity integration, and VR visualization, watch the project walkthrough below.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=bnxuZikzapA">
+    <img
+      src="https://img.youtube.com/vi/bnxuZikzapA/maxresdefault.jpg"
+      alt="HMD Face Recognition System project walkthrough"
+      width="700"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=bnxuZikzapA">
+    Watch the full project walkthrough on YouTube
+  </a>
+</p>
+
+## Project Walkthrough
+
+For a complete explanation of the project, including the motivation, architecture, face recognition pipeline, Unity integration, and VR visualization, watch the project walkthrough below.
+
+[![HMD Face Recognition System project walkthrough](https://img.youtube.com/vi/bnxuZikzapA/maxresdefault.jpg)](https://www.youtube.com/watch?v=bnxuZikzapA)
+
+[Watch the full project walkthrough on YouTube](https://www.youtube.com/watch?v=bnxuZikzapA)
 ## Overview
 
 1. **Python face detection and recognition**
