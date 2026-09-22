@@ -9,7 +9,7 @@ For a complete explanation of the project, including the motivation, architectur
 <p align="center">
   <a href="https://www.youtube.com/watch?v=bnxuZikzapA">
     <img
-      src="https://img.youtube.com/vi/bnxuZikzapA/maxresdefault.jpg"
+      src="./res/setup_screenshots/video_thumbnail.jpg"
       alt="HMD Face Recognition System project walkthrough"
       width="700"
     />
@@ -26,7 +26,7 @@ For a complete explanation of the project, including the motivation, architectur
 
 For a complete explanation of the project, including the motivation, architecture, face recognition pipeline, Unity integration, and VR visualization, watch the project walkthrough below.
 
-[![HMD Face Recognition System project walkthrough](https://img.youtube.com/vi/bnxuZikzapA/maxresdefault.jpg)](https://www.youtube.com/watch?v=bnxuZikzapA)
+[![HMD Face Recognition System project walkthrough](./res/setup_screenshots/video_thumbnail.jpg)](https://www.youtube.com/watch?v=bnxuZikzapA)
 
 [Watch the full project walkthrough on YouTube](https://www.youtube.com/watch?v=bnxuZikzapA)
 ## Overview
