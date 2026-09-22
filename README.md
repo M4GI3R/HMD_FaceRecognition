@@ -18,17 +18,10 @@ For a complete explanation of the project, including the motivation, architectur
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=bnxuZikzapA">
-    Watch the full project walkthrough on YouTube
+    Watch the project video on YouTube
   </a>
 </p>
 
-## Project Walkthrough
-
-For a complete explanation of the project, including the motivation, architecture, face recognition pipeline, Unity integration, and VR visualization, watch the project walkthrough below.
-
-[![HMD Face Recognition System project walkthrough](./res/setup_screenshots/video_thumbnail.jpg)](https://www.youtube.com/watch?v=bnxuZikzapA)
-
-[Watch the full project walkthrough on YouTube](https://www.youtube.com/watch?v=bnxuZikzapA)
 ## Overview
 
 1. **Python face detection and recognition**
